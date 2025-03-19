@@ -52,6 +52,10 @@ In two terminals:
 
 Access DocuSync at:👉 http://localhost:3000
 
+Preview :
+
+![Image](https://github.com/user-attachments/assets/892e0ff8-bb16-40b6-8947-b52827828533)
+
 🧙 Usage Guide
 
 📝 Create a Document
